@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="957363a9-568d-47d8-ba7d-e7256bf07461" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ltl3otoe" />
+  </component>
+  <component name="ProjectId" id="1jP5VbKyOvLgQdC5Q88YSte72Ie" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Cargo.toml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eduardo Flores\Developer\GitHub\lexical_analysis_rs\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run lexical_analysis_rs" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package lexical_analysis_rs --bin lexical_analysis_rs" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run lexical_analysis_rs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957363a9-568d-47d8-ba7d-e7256bf07461" name="Default Changelist" comment="" />
+      <created>1603692911128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603692911128</updated>
+      <workItem from="1603692912221" duration="2870000" />
+      <workItem from="1603702248352" duration="2341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1627" height="367" key="GridCell.Tab.0.bottom" timestamp="1603704603926">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603926" />
+    <state width="1627" height="367" key="GridCell.Tab.0.center" timestamp="1603704603925">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603925" />
+    <state width="1627" height="367" key="GridCell.Tab.0.left" timestamp="1603704603925">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603925" />
+    <state width="1627" height="367" key="GridCell.Tab.0.right" timestamp="1603704603926">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603926" />
+    <state width="1627" height="367" key="GridCell.Tab.1.bottom" timestamp="1603704603929">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603929" />
+    <state width="1627" height="367" key="GridCell.Tab.1.center" timestamp="1603704603927">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603927" />
+    <state width="1627" height="367" key="GridCell.Tab.1.left" timestamp="1603704603927">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603927" />
+    <state width="1627" height="367" key="GridCell.Tab.1.right" timestamp="1603704603928">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1627" height="367" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603704603928" />
+    <state x="533" y="201" key="SettingsEditor" timestamp="1603692932384">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603692932384" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/lexical.rs</url>
+          <line>88</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
