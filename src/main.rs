@@ -10,7 +10,6 @@ fn main() {
     loop {
         token = lexical.set_lexeme();
         match token.token_type {
-            Tokens::Empty => (),
             Tokens::OpenParenthesis => println!("Open Parenthesis: {}", token.value),
             Tokens::ClosedParenthesis => println!("Closed Parenthesis: {}", token.value),
             Tokens::ArithmeticOperator => println!("Arithmetic Operator: {}", token.value),
@@ -27,7 +26,6 @@ fn main() {
             Tokens::MultilineComment => println!("Multiline Comment: {}", token.value),
             Tokens::Eof => {
                 println!("End Of File: {} \n", token.value);
-
                 println!("Variables: {}", lexical.variables);
                 println!("Constants: {}", lexical.constants);
                 println!("Assignments: {}", lexical.assignments);

@@ -1,5 +1,7 @@
+use std::path::PathBuf;
 use std::io::{BufRead, BufReader};
 use std::fs::File;
+use std::env;
 
 use crate::token::{Token, Tokens};
 
@@ -14,7 +16,7 @@ pub struct Lexical {
     pub line: u32,
     pub main_line_start: u32,
     pub main_line_ends: u32,
-    pub input: String,
+    pub input: PathBuf,
     pub buffer: String,
     pub forward: usize,
     pub initial: u32
@@ -22,6 +24,8 @@ pub struct Lexical {
 
 impl Lexical {
     pub fn new() -> Lexical {
+        let mut input = env::current_dir().unwrap();
+        input.push("src/input.txt");
         Lexical {
             variables: 0,
             constants: 0,
@@ -32,7 +36,7 @@ impl Lexical {
             line: 1,
             main_line_start: 0,
             main_line_ends: 0,
-            input: "C:\\Users\\Eduardo Flores\\Developer\\GitHub\\lexical_analysis_rs\\src\\input.txt".to_string(),
+            input,
             buffer: String::new(),
             forward: 0,
             initial: 0 
